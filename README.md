@@ -8,7 +8,7 @@ domain and design experiments to update it.
 **Currently working on:**
 - Dynamic world-model agent for biological systems (Krishnaswamy Lab)
 - Recipe schema — declarative config for reproducible ML experiments
-- Nsiona — early venture at the intersection of AI, capital, and long-horizon impact
+- Nsiona Impact — early venture at the intersection of AI, capital, and long-horizon impact
 
 **Stack:** Python · PyTorch · TypeScript · React · Next.js · FastAPI
 
