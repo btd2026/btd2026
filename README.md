@@ -13,7 +13,9 @@ domain and design experiments to update it.
 **Stack:** Python · PyTorch · TypeScript · React · Next.js · FastAPI
 
 **Writing:** [brian.dibassinga.substack.com](https://brian.dibassinga.substack.com)
+
 **LinkedIn:** [briandibassinga](https://linkedin.com/in/briandibassinga)
+
 **Reach me:** brian.dibassinga@gmail.com
 <!--
 **btd2026/btd2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
