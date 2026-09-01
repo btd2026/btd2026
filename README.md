@@ -12,7 +12,7 @@ domain and design experiments to update it.
 
 **Stack:** Python · PyTorch · TypeScript · React · Next.js · FastAPI
 
-**Writing:** [brian.dibassinga.substack.com](https://brian.dibassinga.substack.com)
+**Writing:** [brian.dibassinga.substack.com]([https://brian.dibassinga.substack.com](https://substack.com/@briandibassinga?utm_source=user-menu))
 
 **LinkedIn:** [briandibassinga](https://linkedin.com/in/briandibassinga)
 
