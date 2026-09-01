@@ -1,6 +1,20 @@
 ## Hi there 👋
-- 🔭 I’m currently working on an Agentic AI project for a Global Consulting firm to support Digital Identity (RBAC) iniatives. Users can use natural languate to transform Workday HR data it into a visual hierarchy diagram. Leveraged Anthropic MCP in a Docker container to translate natural language into query functionality. Developed documentation to support ongoing development of the project in the Consulting company. Projected to reduce a 4 week RBAC role assignment process to a few chats and couple minutes.
-- ⚡ Also working on an AI powered live translator application.
+### Brian Di Bassinga
+
+ML researcher at Yale (Krishnaswamy Lab). I build agentic systems with 
+dynamic world models — agents that maintain an internal model of their 
+domain and design experiments to update it.
+
+**Currently working on:**
+- Dynamic world-model agent for biological systems (Krishnaswamy Lab)
+- Recipe schema — declarative config for reproducible ML experiments
+- Nsiona — early venture at the intersection of AI, capital, and long-horizon impact
+
+**Stack:** Python · PyTorch · TypeScript · React · Next.js · FastAPI
+
+**Writing:** [brian.dibassinga.substack.com](https://brian.dibassinga.substack.com)
+**LinkedIn:** [briandibassinga](https://linkedin.com/in/briandibassinga)
+**Reach me:** brian.dibassinga@gmail.com
 <!--
 **btd2026/btd2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
